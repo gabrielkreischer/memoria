@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memoria Local</string>
+    <string name="teste_mensagem">Teste Mensagem</string>
+    <string name="pref_key">info</string>
+</resources>
